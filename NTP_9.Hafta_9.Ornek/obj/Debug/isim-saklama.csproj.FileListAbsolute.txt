@@ -1,0 +1,8 @@
+D:\Visual projeler\isim-saklama\bin\Debug\isim-saklama.exe.config
+D:\Visual projeler\isim-saklama\bin\Debug\isim-saklama.exe
+D:\Visual projeler\isim-saklama\bin\Debug\isim-saklama.pdb
+D:\Visual projeler\isim-saklama\obj\Debug\isim-saklama.csproj.AssemblyReference.cache
+D:\Visual projeler\isim-saklama\obj\Debug\isim-saklama.csproj.SuggestedBindingRedirects.cache
+D:\Visual projeler\isim-saklama\obj\Debug\isim-saklama.csproj.CoreCompileInputs.cache
+D:\Visual projeler\isim-saklama\obj\Debug\isim-saklama.exe
+D:\Visual projeler\isim-saklama\obj\Debug\isim-saklama.pdb

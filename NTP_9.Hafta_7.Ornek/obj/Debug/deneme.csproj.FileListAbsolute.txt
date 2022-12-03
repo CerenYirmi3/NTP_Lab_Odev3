@@ -1,0 +1,8 @@
+D:\Visual projeler\deneme\bin\Debug\deneme.exe.config
+D:\Visual projeler\deneme\bin\Debug\deneme.exe
+D:\Visual projeler\deneme\bin\Debug\deneme.pdb
+D:\Visual projeler\deneme\obj\Debug\deneme.csproj.AssemblyReference.cache
+D:\Visual projeler\deneme\obj\Debug\deneme.csproj.SuggestedBindingRedirects.cache
+D:\Visual projeler\deneme\obj\Debug\deneme.csproj.CoreCompileInputs.cache
+D:\Visual projeler\deneme\obj\Debug\deneme.exe
+D:\Visual projeler\deneme\obj\Debug\deneme.pdb

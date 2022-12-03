@@ -1,0 +1,8 @@
+D:\Visual projeler\4.Hafta1.Uygulama\bin\Debug\4.Hafta1.Uygulama.exe.config
+D:\Visual projeler\4.Hafta1.Uygulama\bin\Debug\4.Hafta1.Uygulama.exe
+D:\Visual projeler\4.Hafta1.Uygulama\bin\Debug\4.Hafta1.Uygulama.pdb
+D:\Visual projeler\4.Hafta1.Uygulama\obj\Debug\4.Hafta1.Uygulama.csproj.AssemblyReference.cache
+D:\Visual projeler\4.Hafta1.Uygulama\obj\Debug\4.Hafta1.Uygulama.csproj.SuggestedBindingRedirects.cache
+D:\Visual projeler\4.Hafta1.Uygulama\obj\Debug\4.Hafta1.Uygulama.csproj.CoreCompileInputs.cache
+D:\Visual projeler\4.Hafta1.Uygulama\obj\Debug\4.Hafta1.Uygulama.exe
+D:\Visual projeler\4.Hafta1.Uygulama\obj\Debug\4.Hafta1.Uygulama.pdb

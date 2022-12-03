@@ -1,0 +1,8 @@
+D:\Visual projeler\esas\bin\Debug\esas.exe.config
+D:\Visual projeler\esas\bin\Debug\esas.exe
+D:\Visual projeler\esas\bin\Debug\esas.pdb
+D:\Visual projeler\esas\obj\Debug\esas.csproj.AssemblyReference.cache
+D:\Visual projeler\esas\obj\Debug\esas.csproj.SuggestedBindingRedirects.cache
+D:\Visual projeler\esas\obj\Debug\esas.csproj.CoreCompileInputs.cache
+D:\Visual projeler\esas\obj\Debug\esas.exe
+D:\Visual projeler\esas\obj\Debug\esas.pdb

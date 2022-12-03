@@ -1,0 +1,8 @@
+D:\Visual projeler\NTP_4.Hafta_10.Ornek\bin\Debug\NTP_4.Hafta_10.Ornek.exe.config
+D:\Visual projeler\NTP_4.Hafta_10.Ornek\bin\Debug\NTP_4.Hafta_10.Ornek.exe
+D:\Visual projeler\NTP_4.Hafta_10.Ornek\bin\Debug\NTP_4.Hafta_10.Ornek.pdb
+D:\Visual projeler\NTP_4.Hafta_10.Ornek\obj\Debug\NTP_4.Hafta_10.Ornek.csproj.AssemblyReference.cache
+D:\Visual projeler\NTP_4.Hafta_10.Ornek\obj\Debug\NTP_4.Hafta_10.Ornek.csproj.SuggestedBindingRedirects.cache
+D:\Visual projeler\NTP_4.Hafta_10.Ornek\obj\Debug\NTP_4.Hafta_10.Ornek.csproj.CoreCompileInputs.cache
+D:\Visual projeler\NTP_4.Hafta_10.Ornek\obj\Debug\NTP_4.Hafta_10.Ornek.exe
+D:\Visual projeler\NTP_4.Hafta_10.Ornek\obj\Debug\NTP_4.Hafta_10.Ornek.pdb
